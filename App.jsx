@@ -25,7 +25,7 @@ import {
 // ==========================================
 // ★ 設定區：請將您的 Web App URL 貼在這裡
 // ==========================================
-const GOOGLE_SCRIPT_URL = ""; 
+const GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyXHfCFn4tL94SkkIVM6MDgFlYP1k7lfDUaMfy3utOdLo3_p6FbkaerbZxEppxbB8E/exec"; 
 // 例如: "https://script.google.com/macros/s/AKfycbx.../exec"
 
 const STREAMERS = ['工作室', 'Go時尚', '艾莉波波', '林千又', '陳卉', '愛包枕', '整染中'];
